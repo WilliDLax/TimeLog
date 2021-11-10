@@ -22,7 +22,7 @@ namespace TimeLog
             {
                 time.Push(DateTime.Now.ToString("hh:mm:ss"));
                 Console.WriteLine(time.Peek());
-                Thread.Sleep(2000);
+                Thread.Sleep(10000);
             }
 
             Console.WriteLine("////////////////");
