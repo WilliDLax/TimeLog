@@ -1,0 +1,15 @@
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/net5.0/TimeLog.deps.json
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/net5.0/TimeLog.runtimeconfig.json
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/net5.0/TimeLog.runtimeconfig.dev.json
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/net5.0/TimeLog.dll
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/net5.0/ref/TimeLog.dll
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/net5.0/TimeLog.pdb
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/TimeLog.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/TimeLog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/TimeLog.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/TimeLog.AssemblyInfo.cs
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/TimeLog.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/TimeLog.dll
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/ref/TimeLog.dll
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/TimeLog.pdb
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/net5.0/TimeLog.genruntimeconfig.cache
